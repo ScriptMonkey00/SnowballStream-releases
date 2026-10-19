@@ -1,0 +1,50 @@
+name: Bug report
+description: Something in SnowballStream isn't working
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! Issues here are **public**, so don't include passwords, tokens, or personal information.
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: Shown on the app's About tab.
+      placeholder: "0.1.8"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: What's it about?
+      options:
+        - Installing or updating
+        - Twitch login or Channel Points rewards
+        - Bits / the Twitch extension panel
+        - OBS
+        - An effect (snowball, tornado, beehive, custom)
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What were you doing, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: If you can make it happen again, how?
+      placeholder: |
+        1. Open the Config tab
+        2. Click Test on the Tornado
+        3. ...
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or error messages
+      description: Drag images in here, or paste the exact error text.
