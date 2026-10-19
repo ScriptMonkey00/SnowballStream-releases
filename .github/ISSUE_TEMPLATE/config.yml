@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup guide
+    url: https://snowballstream-production.up.railway.app/setup
+    about: Step-by-step instructions for installing and setting up SnowballStream.
