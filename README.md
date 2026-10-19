@@ -14,7 +14,7 @@ SnowballStream is free. If it adds something to your stream, you can chip in on 
 
 ## Help
 
-Questions or problems? Email SnowballStreamSoftware@gmail.com.
+Questions or problems? [Open an issue](https://github.com/ScriptMonkey00/SnowballStream-releases/issues/new/choose). Issues are public, so don't include passwords, tokens, or personal information.
 
 - [Privacy Policy](https://snowballstream-production.up.railway.app/privacy)
 - [Terms of Service](https://snowballstream-production.up.railway.app/terms)
