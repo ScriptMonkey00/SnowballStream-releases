@@ -6,6 +6,8 @@ Let your Twitch viewers throw snowballs, summon tornadoes, and more onto your sc
 
 Grab the latest Windows installer from the [Releases page](https://github.com/ScriptMonkey00/SnowballStream-releases/releases/latest) and run `SnowballStream-Setup-<version>.exe`.
 
+New to SnowballStream? The [setup guide](https://snowballstream-production.up.railway.app/setup) walks you through connecting Twitch and OBS and setting up your effects. More at [the SnowballStream website](https://snowballstream-production.up.railway.app/).
+
 ## Support SnowballStream
 
 SnowballStream is free. If it adds something to your stream, you can chip in on [Ko-fi](https://ko-fi.com/ScriptMonkey00).
