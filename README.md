@@ -8,9 +8,9 @@ Grab the latest Windows installer from the [Releases page](https://github.com/Sc
 
 New to SnowballStream? The [setup guide](https://snowballstream-production.up.railway.app/setup) walks you through connecting Twitch and OBS and setting up your effects. More at [the SnowballStream website](https://snowballstream-production.up.railway.app/).
 
-## Support SnowballStream
+## Like SnowballStream?
 
-SnowballStream is free. If it adds something to your stream, you can chip in on [Ko-fi](https://ko-fi.com/ScriptMonkey00).
+SnowballStream is free to use. If it adds something to your stream, the developer is on [Ko-fi](https://ko-fi.com/ScriptMonkey00).
 
 ## Help
 
